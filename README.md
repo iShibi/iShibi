@@ -10,6 +10,8 @@ My name is Shubham Parihar. I'm a Computer Science and Engineering student.
 [<img align="left" alt="Shubham Parihar | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack overflow]
 [<img align="left" alt="Shubham Parihar | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
