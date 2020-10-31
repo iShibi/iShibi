@@ -2,7 +2,7 @@
 
 - 👦 My name's Shubham Parihar.
 - 📜 I'm a Computer Science and Engineering student.
-- 💖 Loves programming in JavaScript.
+- 💖 Love programming in JavaScript.
 - 🤖 Currently making a Discord bot just for fun.
 
 ### Connect with me:
