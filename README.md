@@ -38,10 +38,10 @@
 <table>
     <tr>
         <td align="left" style="padding=0;width=0;">
-            <img align="left" alt="iShibi GitHub Stats" src="https://github-readme-stats.ishibi.vercel.app/api?username=iShibi&show_icons=true&hide_border=true" />
+            <img align="left" alt="iShibi GitHub Stats" src="https://github-readme-stats.ishibi.vercel.app/api?username=iShibi&show_icons=true&hide_border=true&count_private=true" />
         </td>
         <td align="right" style="padding=0;width=0;">
-            <img align="right" alt="iShibi GitHub Stats" src="https://github-readme-stats.ishibi.vercel.app/api/top-langs/?username=iShibi&&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+            <img align="right" alt="iShibi GitHub Stats" src="https://github-readme-stats.ishibi.vercel.app/api/top-langs/?username=iShibi&&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&langs_count=10" />
         </td>
     </tr>
 </table>
