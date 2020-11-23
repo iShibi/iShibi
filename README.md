@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 <img src="https://komarev.com/ghpvc/?username=iShibi&style=flat-square" alt="profile_view_counter" align="center" />
 
 - 👦 My name's Shubham Parihar.
 - 📜 I'm a Computer Science and Engineering student.
