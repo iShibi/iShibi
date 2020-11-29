@@ -14,7 +14,7 @@
 [<img align="left" alt="Shubham Parihar | Medium" width="50px" src="https://img.icons8.com/bubbles/100/000000/medium-new.png" />][medium]
 [<img align="left" alt="Shubham Parihar | Discord" width="50px" src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" />][discord]
 
-<br/>
+<br/></br>
 
 ### Languages and Tools:
 
