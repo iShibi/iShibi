@@ -12,7 +12,7 @@
 [<img align="left" alt="shubham.pariharr | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shubham Parihar | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stack overflow]
 [<img align="left" alt="Shubham Parihar | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
-<!-- <img align="left" alt="Shubham Parihar | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />Shibi#4680 -->
+[<img align="left" alt="Shubham Parihar | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 
 <br/>
 
@@ -53,3 +53,4 @@
 [linkedin]: https://www.linkedin.com/in/shubhamparihar202/
 [stack overflow]: https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile
 [medium]: https://medium.com/@shubhamparihar
+[discord]: https://discord.com/users/620567262004248596
