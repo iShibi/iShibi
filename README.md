@@ -13,6 +13,7 @@
 [<img align="left" alt="Shubham Parihar | Stack Overflow" width="50px" src="https://img.icons8.com/bubbles/100/000000/stack.png" />][stack overflow]
 [<img align="left" alt="Shubham Parihar | Medium" width="50px" src="https://img.icons8.com/bubbles/100/000000/medium-new.png" />][medium]
 [<img align="left" alt="Shubham Parihar | Discord" width="50px" src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" />][discord]
+[<img align="left" alt="Shubham Parihar | Reddit" width="50px" src="https://img.icons8.com/bubbles/100/000000/reddit.png" />][reddit]
 
 <br/></br>
 
@@ -54,3 +55,4 @@
 [stack overflow]: https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile
 [medium]: https://medium.com/@shubhamparihar
 [discord]: https://discord.com/users/620567262004248596
+[reddit]: https://www.reddit.com/user/i_Shibi
