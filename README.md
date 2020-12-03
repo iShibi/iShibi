@@ -20,7 +20,7 @@
     <img align='center' alt='Shubham Parihar | Stack Overflow' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/stack_overflow.png' />
 </a>
 <a href='https://medium.com/@shubhamparihar' title='Medium'>
-    <img align='left' alt='Shubham Parihar | Medium' height='50' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/medium.png' />
+    <img align='center' alt='Shubham Parihar | Medium' height='50' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/medium.png' />
 </a>
 <a href='https://discord.com/users/620567262004248596' title='Discord'>
     <img align='center' alt='Shubham Parihar | Discord' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png' />
