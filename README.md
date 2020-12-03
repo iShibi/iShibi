@@ -3,8 +3,8 @@
     Hello there 👋
 </h1>
 
-<div class='about-me'>
-    <ul>
+<div>
+    <ul id='about-me'>
         <li>👦 My name's Shubham Parihar.</li>
         <li>📜 I'm a Computer Science and Engineering student.</li>
         <li>💖 Love programming in JavaScript.</li>
