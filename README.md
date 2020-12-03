@@ -6,7 +6,7 @@
 - 🤖 Currently making a Discord bot just for fun.
 
 
-## Connect with me:
+### Connect with me:
 
 [![i_Shibi | Twitter](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/twitter.png 'Twitter')](https://twitter.com/i_Shibi)
 [![Shubham Parihar | LinkedIn](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/linkedin.png 'LinkedIn')](https://www.linkedin.com/in/shubhamparihar202/)
@@ -17,7 +17,7 @@
 [![i_Shibi | Reddit](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/reddit.png 'Reddit')](https://www.reddit.com/user/i_Shibi)
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,7 +33,7 @@
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/dusk/64/000000/c-programming.png" />
 
 
-## GitHub Stats:
+### GitHub Stats:
 
 <table>
     <tr>
