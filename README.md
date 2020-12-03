@@ -1,9 +1,9 @@
 # Hello there 👋
 
-- 👦 My name's Shubham Parihar.
-- 📜 I'm a Computer Science and Engineering student.
-- 💖 Love programming in JavaScript.
-- 🤖 Currently making a Discord bot just for fun.
+👦 My name's Shubham Parihar.  
+📜 I'm a Computer Science and Engineering student.  
+💖 Love programming in JavaScript.  
+🤖 Currently making a Discord bot just for fun.  
 
 
 ### Connect with me:
