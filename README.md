@@ -23,7 +23,7 @@
     <img align="left" alt="Shubham Parihar | Medium" width="50px" src="https://img.icons8.com/bubbles/100/000000/medium-new.png" />
 </a>
 <a href='https://discord.com/users/620567262004248596' title='Discord'>
-    <img align="left" alt="Shubham Parihar | Discord" width="50px" src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" />
+    <img align='center' alt='Shubham Parihar | Discord' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png' />
 </a>
 <a href='https://www.reddit.com/user/i_Shibi' title='Reddit'>
     <img align="left" alt="Shubham Parihar | Reddit" width="50px" src="https://img.icons8.com/bubbles/100/000000/reddit.png" />
