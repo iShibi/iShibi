@@ -16,6 +16,7 @@
 [![Shibi | Discord](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png 'Discord')](https://discord.com/users/620567262004248596)
 [![i_Shibi | Reddit](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/reddit.png 'Reddit')](https://www.reddit.com/user/i_Shibi)
 
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -31,7 +32,8 @@
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/dusk/64/000000/c-programming.png" />
 
-## GitHub Stats
+
+## GitHub Stats:
 
 <table>
     <tr>
