@@ -1,6 +1,7 @@
 <link href="style.css" rel="stylesheet"></link>
-### Hello there 👋 <img src="https://komarev.com/ghpvc/?username=iShibi&style=flat-square" alt="profile_view_counter" align="center" />
-
+<h1>
+    Hello there 👋
+</h1>
 - 👦 My name's Shubham Parihar.
 - 📜 I'm a Computer Science and Engineering student.
 - 💖 Love programming in JavaScript.
