@@ -7,13 +7,27 @@
 
 ### Connect with me:
 
-<img align="left" alt="i_Shibi | Twitter" width="50px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" href='https://twitter.com/i_Shibi' />
-[<img align="left" alt="Shubham Parihar | LinkedIn" width="50px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="shubham.pariharr | Instagram" width="50px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Shubham Parihar | Stack Overflow" width="50px" src="https://img.icons8.com/bubbles/100/000000/stack.png" />][stack overflow]
-[<img align="left" alt="Shubham Parihar | Medium" width="50px" src="https://img.icons8.com/bubbles/100/000000/medium-new.png" />][medium]
-[<img align="left" alt="Shubham Parihar | Discord" width="50px" src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" />][discord]
-[<img align="left" alt="Shubham Parihar | Reddit" width="50px" src="https://img.icons8.com/bubbles/100/000000/reddit.png" />][reddit]
+<a href='https://twitter.com/i_Shibi' title='Twitter'>
+    <img align="left" alt="i_Shibi | Twitter" width="50px" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
+</a>
+<a href='https://www.linkedin.com/in/shubhamparihar202/' title='LinkedIn'>
+    <img align="left" alt="Shubham Parihar | LinkedIn" width="50px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
+</a>
+<a href='https://www.instagram.com/shubham.pariharr/' title='Instagram'>
+    <img align="left" alt="shubham.pariharr | Instagram" width="50px" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" />
+</a>
+<a href='https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile' title='Stack Overflow'>
+    <img align="left" alt="Shubham Parihar | Stack Overflow" width="50px" src="https://img.icons8.com/bubbles/100/000000/stack.png" />
+</a>
+<a href='https://medium.com/@shubhamparihar' title='Medium'>
+    <img align="left" alt="Shubham Parihar | Medium" width="50px" src="https://img.icons8.com/bubbles/100/000000/medium-new.png" />
+</a>
+<a href='https://discord.com/users/620567262004248596' title='Discord'>
+    <img align="left" alt="Shubham Parihar | Discord" width="50px" src="https://img.icons8.com/bubbles/100/000000/discord-logo.png" />
+</a>
+<a href='https://www.reddit.com/user/i_Shibi' title='Reddit'>
+    <img align="left" alt="Shubham Parihar | Reddit" width="50px" src="https://img.icons8.com/bubbles/100/000000/reddit.png" />
+</a>
 
 <br/></br>
 
@@ -50,10 +64,10 @@
 
 
 <!-- Links -->
-[twitter]: https://twitter.com/i_Shibi
+<!-- [twitter]: https://twitter.com/i_Shibi
 [instagram]: https://www.instagram.com/shubham.pariharr/
 [linkedin]: https://www.linkedin.com/in/shubhamparihar202/
 [stack overflow]: https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile
 [medium]: https://medium.com/@shubhamparihar
 [discord]: https://discord.com/users/620567262004248596
-[reddit]: https://www.reddit.com/user/i_Shibi
+[reddit]: https://www.reddit.com/user/i_Shibi -->
