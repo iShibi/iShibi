@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+    a: {
+        text-decoration: none;
+    }
+    </style>
+</head>
+<body>
 ### Hello there 👋 <img src="https://komarev.com/ghpvc/?username=iShibi&style=flat-square" alt="profile_view_counter" align="center" />
 
 - 👦 My name's Shubham Parihar.
@@ -7,13 +17,13 @@
 
 ### Connect with me:
 
-<span><a href='https://twitter.com/i_Shibi' title='Twitter'><img align='center' alt='i_Shibi | Twitter' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/twitter.png' /></a></span>
-<span><a href='https://www.linkedin.com/in/shubhamparihar202/' title='LinkedIn'><img align='center' alt='Shubham Parihar | LinkedIn' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/linkedin.png' /></a></span>
-<span><a href='https://www.instagram.com/shubham.pariharr/' title='Instagram'><img align='center' alt='shubham.pariharr | Instagram' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/instagram.png' /></a></span>
-<span><a href='https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile' title='Stack Overflow'><img align='center' alt='Shubham Parihar | Stack Overflow' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/stack_overflow.png' /></a></span>
-<span><a href='https://medium.com/@shubhamparihar' title='Medium'><img align='center' alt='Shubham Parihar | Medium' height='50' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/medium.png' /></a></span>
-<span><a href='https://discord.com/users/620567262004248596' title='Discord'><img align='center' alt='Shubham Parihar | Discord' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png' /></a></span>
-<span><a href='https://www.reddit.com/user/i_Shibi' title='Reddit'><img align='center' alt='Shubham Parihar | Reddit' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/reddit.png' /></a></span>
+<a href='https://twitter.com/i_Shibi' title='Twitter'><img align='center' alt='i_Shibi | Twitter' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/twitter.png' /></a>
+<a href='https://www.linkedin.com/in/shubhamparihar202/' title='LinkedIn'><img align='center' alt='Shubham Parihar | LinkedIn' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/linkedin.png' /></a>
+<a href='https://www.instagram.com/shubham.pariharr/' title='Instagram'><img align='center' alt='shubham.pariharr | Instagram' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/instagram.png' /></a>
+<a href='https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile' title='Stack Overflow'><img align='center' alt='Shubham Parihar | Stack Overflow' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/stack_overflow.png' /></a>
+<a href='https://medium.com/@shubhamparihar' title='Medium'><img align='center' alt='Shubham Parihar | Medium' height='50' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/medium.png' /></a>
+<a href='https://discord.com/users/620567262004248596' title='Discord'><img align='center' alt='Shubham Parihar | Discord' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png' /></a>
+<a href='https://www.reddit.com/user/i_Shibi' title='Reddit'><img align='center' alt='Shubham Parihar | Reddit' height='50px' width='50px' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/reddit.png' /></a>
 
 <br/>
 
@@ -47,3 +57,5 @@
         </td>
     </tr>
 </table>
+</body>
+</html>
