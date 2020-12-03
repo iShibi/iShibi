@@ -5,7 +5,6 @@
 - 💖 Love programming in JavaScript.
 - 🤖 Currently making a Discord bot just for fun.
 
-
 ### Connect with me:
 
 [![i_Shibi | Twitter](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/twitter.png 'Twitter')](https://twitter.com/i_Shibi)
@@ -15,7 +14,6 @@
 [![Shubham Parihar | Medium](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/medium.png 'Medium')](https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile)
 [![Shibi | Discord](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/discord.png 'Discord')](https://discord.com/users/620567262004248596)
 [![i_Shibi | Reddit](https://github.com/iShibi/storage/blob/master/iShibi_assets/social_media_icons/reddit.png 'Reddit')](https://www.reddit.com/user/i_Shibi)
-
 
 ### Languages and Tools:
 
@@ -30,8 +28,8 @@
 <img align="left" alt="Mongoose" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="C" width="40px" src="https://img.icons8.com/dusk/64/000000/c-programming.png" />  
-
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/dusk/64/000000/c-programming.png" />
+<br/>
 
 ### GitHub Stats:
 
