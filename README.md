@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-    a: {
-        text-decoration: none;
-    }
-    </style>
-</head>
-<body>
+<link href="style.css" rel="stylesheet"></link>
 ### Hello there 👋 <img src="https://komarev.com/ghpvc/?username=iShibi&style=flat-square" alt="profile_view_counter" align="center" />
 
 - 👦 My name's Shubham Parihar.
@@ -57,5 +48,3 @@
         </td>
     </tr>
 </table>
-</body>
-</html>
