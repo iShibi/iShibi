@@ -1,10 +1,10 @@
-<link href="./style.css" rel="stylesheet"></link>
+<link href="" rel="stylesheet"></link>
 <h1>
     Hello there 👋
 </h1>
 
 <div>
-    <ul>
+    <ul style="list-style-type:none;">
         <li>👦 My name's Shubham Parihar.</li>
         <li>📜 I'm a Computer Science and Engineering student.</li>
         <li>💖 Love programming in JavaScript.</li>
