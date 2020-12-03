@@ -1,4 +1,3 @@
-<link href="" rel="stylesheet"></link>
 <h1>
     Hello there 👋
 </h1>
