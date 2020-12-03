@@ -2,10 +2,15 @@
 <h1>
     Hello there 👋
 </h1>
-- 👦 My name's Shubham Parihar.
-- 📜 I'm a Computer Science and Engineering student.
-- 💖 Love programming in JavaScript.
-- 🤖 Currently making a Discord bot just for fun.
+
+<div class='about-me'>
+    <ul>
+        <li>👦 My name's Shubham Parihar.</li>
+        <li>📜 I'm a Computer Science and Engineering student.</li>
+        <li>💖 Love programming in JavaScript.</li>
+        <li>🤖 Currently making a Discord bot just for fun.</li>
+    </ul>
+</div>
 
 ### Connect with me:
 
