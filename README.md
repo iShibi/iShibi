@@ -1,6 +1,6 @@
 # Hello there 👋
 
-<img align='right' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/octocat.png' height='300' width='300'>
+<img align='right' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/octocat_jpg.jpg' height='400' width='400'>
 
 - 👦 My name's Shubham Parihar.
 - 📜 I'm a Computer Science and Engineering student.
