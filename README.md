@@ -1,4 +1,4 @@
-# Hello there <img src='https://github.com/iShibi/storage/blob/master/iShibi_assets/hello.gif' height='200' width='200'>
+# Hello there <img src='https://github.com/iShibi/storage/blob/master/iShibi_assets/hello.gif' height='43' width='50'>
 
 <img align='right' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/octocat_bp.png' height='400' width='400'>
 
