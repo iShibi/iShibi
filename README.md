@@ -2,13 +2,13 @@
 
 <img align='right' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/octocat_bp.png' height='400' width='400'>
 
-👦 My name's Shubham Parihar.
+👦 My name's Shubham Parihar
 
-📜 I'm a Computer Science and Engineering student.
+📜 I'm a Computer Science and Engineering student
 
-💖 Love programming in JavaScript.
+💖 Love programming in JavaScript
 
-🤖 Currently making a Discord bot just for fun.
+🤖 Currently learning React and making Discord bot for fun
 
 ### Connect with me:
 
