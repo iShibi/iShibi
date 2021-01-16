@@ -2,13 +2,13 @@
 
 <img align='right' src='https://github.com/iShibi/storage/blob/master/iShibi_assets/octocat_bp.png' height='400' width='400'>
 
-👦 My name's Shubham Parihar
+🤠 My name's Shubham Parihar
 
-📜 I'm a Computer Science and Engineering student
+🐱‍💻 I'm a Computer Science and Engineering student
 
-💖 Love programming in JavaScript
+💖 Love programming in javaScript
 
-🤖 Currently learning React and making Discord bot for fun
+🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js). A nodejs library for Twitter API v2.
 
 ### Connect with me:
 
