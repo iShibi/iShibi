@@ -8,7 +8,7 @@
 
 💖 Love programming in javaScript
 
-🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js). A nodejs library for Twitter API v2.
+🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js)
 
 ### Connect with me:
 
