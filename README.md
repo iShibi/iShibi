@@ -6,7 +6,7 @@
 
 🐱‍💻 I'm a Computer Science and Engineering student
 
-💖 Love programming in javaScript
+💖 Love programming in ~~javaScript~~ TypeScript
 
 🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js)
 
