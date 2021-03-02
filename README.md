@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [![i_Shibi | Twitter](https://img.icons8.com/bubbles/50/000000/twitter.png 'Twitter')](https://twitter.com/i_Shibi)
-[![Shubham Parihar | LinkedIn](https://img.icons8.com/bubbles/50/000000/linkedin.png 'LinkedIn')](https://www.linkedin.com/in/shubhamparihar202/)
+[![Shubham Parihar | LinkedIn](https://img.icons8.com/bubbles/50/000000/linkedin.png 'LinkedIn')](https://www.linkedin.com/in/ishibi/)
 [![shubham.pariharr | Instagram](https://img.icons8.com/bubbles/50/000000/instagram-new.png 'Instagram')](https://www.instagram.com/shubham.pariharr/)
 [![Shubham Parihar | Stack Overflow](https://img.icons8.com/bubbles/50/000000/stack.png 'Stack Overflow')](https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile)
 [![Shubham Parihar | Medium](https://img.icons8.com/bubbles/50/000000/medium-new.png 'Medium')](https://stackoverflow.com/users/13809941/shubham-parihar?tab=profile)
