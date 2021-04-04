@@ -8,7 +8,7 @@
 
 💖 Love programming in ~~javaScript~~ TypeScript
 
-🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js)
+🛠️ Currently working on [twitter.js](https://github.com/twitterjs/twitter.js) & [tspotify](https://github.com/tspotify/tspotify)
 
 ### Connect with me:
 
