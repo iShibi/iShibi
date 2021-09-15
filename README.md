@@ -1,3 +1,3 @@
-Hey there!
+Hey there! 🐣
 
-https://bio.link/shibi
+😺🤝😀 → [bio.link/shibi](https://bio.link/shibi)
